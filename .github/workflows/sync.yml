@@ -1,7 +1,7 @@
 name: Sync repo từ fastsign.dev
 
 on:
-  workflow_dispatch:  # Cho phép chạy thủ công khi cần
+  workflow_dispatch:
 
 jobs:
   sync:
@@ -13,7 +13,7 @@ jobs:
       - name: Tải repo.json từ fastsign.dev
         run: curl -L -o repo.json https://fastsign.dev/repo.json
 
-      - name: Sửa metadata thành Plat • Dex
+      - name: Sửa metadata
         run: |
           sed -i 's/"name": "Alan'\''s Gigantic Repo"/"name": "Plat • Dex"/g' repo.json
           sed -i 's/"identifier": "dev.fastsign.repo"/"identifier": "com.platdex.repo"/g' repo.json
@@ -23,10 +23,10 @@ jobs:
           sed -i 's/"repoName": "Alan'\''s Gigantic Repo"/"repoName": "Plat • Dex"/g' repo.json
           sed -i 's|"repoIcon": "https://fastsign.dev/icon.png"|"repoIcon": "https://plat-dexx.github.io/repo-platdex/icon.PNG"|g' repo.json
 
-      - name: Commit và push lên repo
+      - name: Commit và push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add repo.json
-          git commit -m "Tự động đồng bộ repo từ fastsign.dev" || echo "Không có thay đổi"
+          git commit -m "Tự động đồng bộ" || echo "Không có thay đổi"
           git push
