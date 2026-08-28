@@ -2,12 +2,12 @@
   "name": "Plat • Dex",
   "identifier": "com.platdex.repo",
   "subtitle": "Repo chính thức của Plat • Dex",
-  "sourceURL": "https://your-username.github.io/your-repo-name/repo.json",
-  "website": "https://your-username.github.io/your-repo-name",
-  "iconURL": "https://your-username.github.io/your-repo-name/icon.PNG",
+  "sourceURL": "https://plat-dexx.github.io/repo-platdex/",
+  "website": "https://plat-dexx.github.io/repo-platdex/",
+  "iconURL": "https://plat-dexx.github.io/repo-platdex/icon.PNG",
   "META": {
     "repoName": "Plat • Dex",
-    "repoIcon": "https://your-username.github.io/your-repo-name/icon.PNG"
+    "repoIcon": "https://plat-dexx.github.io/repo-platdex/icon.PNG"
   },
   "news": [],
   "userInfo": {},
