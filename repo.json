@@ -1,0 +1,464 @@
+{
+  "name": "Plat • Dex Repo",
+  "identifier": "com.platdex.repo",
+  "subtitle": "Repo chính thức của Plat • Dex",
+  "sourceURL": "https://your-username.github.io/your-repo-name/repo.json",
+  "website": "https://your-username.github.io/your-repo-name",
+  "iconURL": "https://your-username.github.io/your-repo-name/icon.png",
+  "META": {
+    "repoName": "Plat • Dex Repo",
+    "repoIcon": "https://your-username.github.io/your-repo-name/icon.png"
+  },
+  "news": [],
+  "userInfo": {},
+  "apps": [
+    {
+      "name": "AdobeScan",
+      "bundleIdentifier": "com.adobe.scan.ios",
+      "developerName": "AppTesters IPA Repo",
+      "version": "26.04.17",
+      "versionDate": "2026-04-21",
+      "size": 190191054,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-04-2026/AdobeScan_26.04.17_Premium_@thisismanpreets_apptesters.org.ipa",
+      "versions": [
+        {
+          "version": "26.04.17",
+          "date": "2026-04-21",
+          "localizedDescription": "Injected with Premium",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-04-2026/AdobeScan_26.04.17_Premium_@thisismanpreets_apptesters.org.ipa",
+          "size": 190191054,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "Injected with Premium",
+      "tintColor": "000000",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png",
+      "bundleID": "com.adobe.scan.ios",
+      "fullDate": "20260421214209",
+      "type": 1
+    },
+    {
+      "name": "Noteshelf3",
+      "bundleIdentifier": "com.fluidtouch.noteshelf3",
+      "developerName": "AppTesters IPA Repo",
+      "version": "6.12",
+      "versionDate": "2026-04-21",
+      "size": 279869911,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fluidtouch.noteshelf3.png",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-04-2026/Noteshelf3_6.12_Premium_@thisismanpreets_apptesters.org.ipa",
+      "versions": [
+        {
+          "version": "6.12",
+          "date": "2026-04-21",
+          "localizedDescription": "Injected with Premium",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-04-2026/Noteshelf3_6.12_Premium_@thisismanpreets_apptesters.org.ipa",
+          "size": 279869911,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "Injected with Premium",
+      "tintColor": "000000",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fluidtouch.noteshelf3.png",
+      "bundleID": "com.fluidtouch.noteshelf3",
+      "fullDate": "20260421214209",
+      "type": 1
+    },
+    {
+      "name": "Clarity",
+      "bundleIdentifier": "com.moodtools.thoughtdiary",
+      "developerName": "@binnichtaktivsipas",
+      "version": "5.5.19",
+      "versionDate": "2026-04-21",
+      "size": 143106231,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@binnichtaktivsipas | Clarity - CBT Thought Diary  Pro features unlocked  Tweak made by blatant  Minimum OS version 16.0  AppStore link | Donate",
+      "iconURL": "https://fastsign.dev/tg-icon/binnichtaktivsipas/147450.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/binnichtaktivsipas/147450-Clarity%20Pro%205.5.19.ipa",
+      "versions": [
+        {
+          "version": "5.5.19",
+          "date": "2026-04-21",
+          "localizedDescription": "@binnichtaktivsipas | Clarity - CBT Thought Diary  Pro features unlocked  Tweak made by blatant  Minimum OS version 16.0  AppStore link | Donate",
+          "downloadURL": "https://fastsign.dev/tg-ipa/binnichtaktivsipas/147450-Clarity%20Pro%205.5.19.ipa",
+          "size": 143106231,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "@binnichtaktivsipas | Clarity - CBT Thought Diary  Pro features unlocked  Tweak made by blatant  Minimum OS version 16.0  AppStore link | Donate",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/binnichtaktivsipas/147450.png",
+      "bundleID": "com.moodtools.thoughtdiary",
+      "fullDate": "20260421214209",
+      "type": 1
+    },
+    {
+      "name": "Mimo",
+      "bundleIdentifier": "com.getmimo.mimo",
+      "developerName": "@binnichtaktivsipas",
+      "version": "12.9.0",
+      "versionDate": "2026-04-21",
+      "size": 155793418,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@binnichtaktivsipas | Learn Coding/Programming: Mimo  Max subscription   Tweak made by Blatant  Minimum OS version 17.0  AppStore link | Donate",
+      "iconURL": "https://fastsign.dev/tg-icon/binnichtaktivsipas/147449.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/binnichtaktivsipas/147449-Mimo%20Max%2012.9.0.ipa",
+      "versions": [
+        {
+          "version": "12.9.0",
+          "date": "2026-04-21",
+          "localizedDescription": "@binnichtaktivsipas | Learn Coding/Programming: Mimo  Max subscription   Tweak made by Blatant  Minimum OS version 17.0  AppStore link | Donate",
+          "downloadURL": "https://fastsign.dev/tg-ipa/binnichtaktivsipas/147449-Mimo%20Max%2012.9.0.ipa",
+          "size": 155793418,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "@binnichtaktivsipas | Learn Coding/Programming: Mimo  Max subscription   Tweak made by Blatant  Minimum OS version 17.0  AppStore link | Donate",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/binnichtaktivsipas/147449.png",
+      "bundleID": "com.getmimo.mimo",
+      "fullDate": "20260421214209",
+      "type": 1
+    },
+    {
+      "name": "neurolist",
+      "bundleIdentifier": "neurolist.app.neurolist",
+      "developerName": "@riftysIPAlibrary",
+      "version": "1.5.60",
+      "versionDate": "2026-04-21",
+      "size": 37389196,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@riftysIPAlibrary | neurolist: AI Planner for ADHD  Tweak: Subscription Unlocked  Version: 1.5.60  Patched ✓  @riftysIPAlibrary  Additional Informatio",
+      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/5826.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/5826-neurolist:%20AI%20Planner%20for%20ADHD-v1.5.60-riftysipas.ipa",
+      "versions": [
+        {
+          "version": "1.5.60",
+          "date": "2026-04-21",
+          "localizedDescription": "@riftysIPAlibrary | neurolist: AI Planner for ADHD  Tweak: Subscription Unlocked  Version: 1.5.60  Patched ✓  @riftysIPAlibrary  Additional Informatio",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/5826-neurolist:%20AI%20Planner%20for%20ADHD-v1.5.60-riftysipas.ipa",
+          "size": 37389196,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "@riftysIPAlibrary | neurolist: AI Planner for ADHD  Tweak: Subscription Unlocked  Version: 1.5.60  Patched ✓  @riftysIPAlibrary  Additional Informatio",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/5826.png",
+      "bundleID": "neurolist.app.neurolist",
+      "fullDate": "20260421214209",
+      "type": 1
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "@glesign",
+      "version": "21.16.2",
+      "versionDate": "2026-04-21",
+      "size": 129695669,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@glesign | YouTube v21.16.2 | YouPro b1  🇷🇺 Modified YouTube application — No Ads — Sponsored ad blocking in video — Download vi",
+      "iconURL": "https://fastsign.dev/tg-icon/glesign/1675.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/glesign/1675-YouTube%20v21.16.2%20YouPro%20b1%5Btg@glesign%5D.ipa",
+      "versions": [
+        {
+          "version": "21.16.2",
+          "date": "2026-04-21",
+          "localizedDescription": "@glesign | YouTube v21.16.2 | YouPro b1  🇷🇺 Modified YouTube application — No Ads — Sponsored ad blocking in video — Download vi",
+          "downloadURL": "https://fastsign.dev/tg-ipa/glesign/1675-YouTube%20v21.16.2%20YouPro%20b1%5Btg@glesign%5D.ipa",
+          "size": 129695669,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "@glesign | YouTube v21.16.2 | YouPro b1  🇷🇺 Modified YouTube application — No Ads — Sponsored ad blocking in video — Download vi",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/glesign/1675.png",
+      "bundleID": "com.google.ios.youtube",
+      "fullDate": "20260421194159",
+      "type": 1
+    },
+    {
+      "name": "Okko",
+      "bundleIdentifier": "ru.more.yotaplay",
+      "developerName": "@ipa_dark",
+      "version": "14.4.0",
+      "versionDate": "2026-04-21",
+      "size": 279943414,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@ipa_dark | 🔄 Okko  🇷🇺 Online cinema with movies, series and cartoons, high quality streaming support, personalized recomm",
+      "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1462.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1462-Okko%20%5Bv14.4.0%5D%28tg@ipa_dark%29.ipa",
+      "versions": [
+        {
+          "version": "14.4.0",
+          "date": "2026-04-21",
+          "localizedDescription": "@ipa_dark | 🔄 Okko  🇷🇺 Online cinema with movies, series and cartoons, high quality streaming support, personalized recomm",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1462-Okko%20%5Bv14.4.0%5D%28tg@ipa_dark%29.ipa",
+          "size": 279943414,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "@ipa_dark | 🔄 Okko  🇷🇺 Online cinema with movies, series and cartoons, high quality streaming support, personalized recomm",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/ipa-dark/1462.png",
+      "bundleID": "ru.more.yotaplay",
+      "fullDate": "20260421171159",
+      "type": 1
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "@glesign",
+      "version": "426.0.0",
+      "versionDate": "2026-04-21",
+      "size": 334348080,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@glesign | Instagram v426.0.0 | RyukGram v1.2.1  🇷🇺 New free modification for Instagram — Anonymous viewing of Stories, messages — Saving del",
+      "iconURL": "https://fastsign.dev/tg-icon/glesign/1674.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/glesign/1674-Instagram%20v426.0.0%20RyukGram%20v1.2.1%5Btg@glesign%5D.ipa",
+      "versions": [
+        {
+          "version": "426.0.0",
+          "date": "2026-04-21",
+          "localizedDescription": "@glesign | Instagram v426.0.0 | RyukGram v1.2.1  🇷🇺 New free modification for Instagram — Anonymous viewing of Stories, messages — Saving del",
+          "downloadURL": "https://fastsign.dev/tg-ipa/glesign/1674-Instagram%20v426.0.0%20RyukGram%20v1.2.1%5Btg@glesign%5D.ipa",
+          "size": 334348080,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "@glesign | Instagram v426.0.0 | RyukGram v1.2.1  🇷🇺 New free modification for Instagram — Anonymous viewing of Stories, messages — Saving del",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/glesign/1674.png",
+      "bundleID": "com.burbn.instagram",
+      "fullDate": "20260421044159",
+      "type": 1
+    },
+    {
+      "name": "AirBrush",
+      "bundleIdentifier": "com.magicv.AirBrush",
+      "developerName": "@ipa_dark",
+      "version": "7.18.0",
+      "versionDate": "2026-04-20",
+      "size": 368390081,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@ipa_dark | 🔄 AirBrush - photo editor - appstore  🇷🇺 Simple and convenient tool for photo retouching. Allows you to remove skin imperfections, whiten",
+      "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1461.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1461-AirBrush%20PRO%20%5Bv7.18.0%5D%28tg@ipa_dark%29.ipa",
+      "versions": [
+        {
+          "version": "7.18.0",
+          "date": "2026-04-20",
+          "localizedDescription": "@ipa_dark | 🔄 AirBrush - photo editor - appstore  🇷🇺 Simple and convenient tool for photo retouching. Allows you to remove skin imperfections, whiten",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1461-AirBrush%20PRO%20%5Bv7.18.0%5D%28tg@ipa_dark%29.ipa",
+          "size": 368390081,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "@ipa_dark | 🔄 AirBrush - photo editor - appstore  🇷🇺 Simple and convenient tool for photo retouching. Allows you to remove skin imperfections, whiten",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/ipa-dark/1461.png",
+      "bundleID": "com.magicv.AirBrush",
+      "fullDate": "20260420061159",
+      "type": 1
+    },
+    {
+      "name": "KirovVestnikMainTarget",
+      "bundleIdentifier": "ru.kirovvestnik",
+      "developerName": "@glesign",
+      "version": "1.0.0",
+      "versionDate": "2026-04-18",
+      "size": 29718119,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@glesign | NewsFloww v1.0.0  🇷🇺 Khlynov Bank Application — Removed app from TestFlight © Created by: GLESign  🇺🇸 Xlynov Bank Application — Removed ",
+      "iconURL": "https://fastsign.dev/tg-icon/glesign/1664.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/glesign/1664-NewsFloww%20v1.0.0%5Btg@glesign%5D.ipa",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-04-18",
+          "localizedDescription": "@glesign | NewsFloww v1.0.0  🇷🇺 Khlynov Bank Application — Removed app from TestFlight © Created by: GLESign  🇺🇸 Xlynov Bank Application — Removed ",
+          "downloadURL": "https://fastsign.dev/tg-ipa/glesign/1664-NewsFloww%20v1.0.0%5Btg@glesign%5D.ipa",
+          "size": 29718119,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "@glesign | NewsFloww v1.0.0  🇷🇺 Khlynov Bank Application — Removed app from TestFlight © Created by: GLESign  🇺🇸 Xlynov Bank Application — Removed ",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/glesign/1664.png",
+      "bundleID": "ru.kirovvestnik",
+      "fullDate": "20260418131200",
+      "type": 1
+    },
+    {
+      "name": "NeoServer",
+      "bundleIdentifier": "com.neo.NeoMan",
+      "developerName": "TTJB IPA Repo",
+      "version": "8.1.6",
+      "versionDate": "2026-04-21",
+      "size": 22236222,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Added feature: Subscription unlocked - IPA checked and synthesized by TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-04-2026/NeoServer_8.1.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "versions": [
+        {
+          "version": "8.1.6",
+          "date": "2026-04-21",
+          "localizedDescription": "Added feature: Subscription unlocked - IPA checked and synthesized by TTJB Team",
+          "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-04-2026/NeoServer_8.1.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 22236222,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "Added feature: Subscription unlocked - IPA checked and synthesized by TTJB Team",
+      "tintColor": "000000",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
+      "bundleID": "com.neo.NeoMan",
+      "fullDate": "20260421161218",
+      "type": 1
+    },
+    {
+      "name": "Stndrd",
+      "bundleIdentifier": "uni.cbum",
+      "developerName": "TTJB IPA Repo",
+      "version": "4.1.34",
+      "versionDate": "2026-04-21",
+      "size": 90580016,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Added feature: Subscription unlocked - IPA checked and synthesized by TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-04-2026/Stndrd_4.1.34_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "versions": [
+        {
+          "version": "4.1.34",
+          "date": "2026-04-21",
+          "localizedDescription": "Added feature: Subscription unlocked - IPA checked and synthesized by TTJB Team",
+          "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-04-2026/Stndrd_4.1.34_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 90580016,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "Added feature: Subscription unlocked - IPA checked and synthesized by TTJB Team",
+      "tintColor": "000000",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "bundleID": "uni.cbum",
+      "fullDate": "20260421161218",
+      "type": 1
+    },
+    {
+      "name": "HlTV Video & Drama",
+      "bundleIdentifier": "com.ipaomtk.hltvvideodrama",
+      "developerName": "ipaomtk.com",
+      "version": "1.9.9",
+      "versionDate": "2026-04-18",
+      "size": 57388564,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Version: 1.9.9\nUpdate: Unknown\n\nMOD Features:\nUnlocked\n\nApp synthesized from various sources.",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Hl-TV-300x300.jpg",
+      "downloadURL": "https://file.ipaomtk.com/ipa/HlTV-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "version": "1.9.9",
+          "date": "2026-04-18",
+          "localizedDescription": "Version: 1.9.9\nUpdate: Unknown\n\nMOD Features:\nUnlocked\n\nApp synthesized from various sources.",
+          "downloadURL": "https://file.ipaomtk.com/ipa/HlTV-IPAOMTK.COM.ipa",
+          "size": 57388564,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "Version: 1.9.9\nUpdate: Unknown\n\nMOD Features:\nUnlocked\n\nApp synthesized from various sources.",
+      "tintColor": "000000",
+      "icon": "https://ipaomtk.com/wp-content/uploads/2025/03/Hl-TV-300x300.jpg",
+      "bundleID": "com.ipaomtk.hltvvideodrama",
+      "fullDate": "20260418061226",
+      "type": 1
+    },
+    {
+      "name": "Sweet Cube Blast",
+      "bundleIdentifier": "com.ipaomtk.sweetcubeblast",
+      "developerName": "ipaomtk.com",
+      "version": "25.0124.00",
+      "versionDate": "2026-04-18",
+      "size": 369434296,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Version: 25.0124.00\nUpdate: Unknown\n\nMOD Features:\nCoins - Lives - Stars No Need [ Task ] - Booster - Auto Win\n\nApp synthesized from various sources.",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/Sweet-Cube-Blast-300x300.webp",
+      "downloadURL": "https://file.ipaomtk.com/ipa/Sweet_Cube_Blast%20_ipaomtk.com.ipa",
+      "versions": [
+        {
+          "version": "25.0124.00",
+          "date": "2026-04-18",
+          "localizedDescription": "Version: 25.0124.00\nUpdate: Unknown\n\nMOD Features:\nCoins - Lives - Stars No Need [ Task ] - Booster - Auto Win\n\nApp synthesized from various sources.",
+          "downloadURL": "https://file.ipaomtk.com/ipa/Sweet_Cube_Blast%20_ipaomtk.com.ipa",
+          "size": 369434296,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "Version: 25.0124.00\nUpdate: Unknown\n\nMOD Features:\nCoins - Lives - Stars No Need [ Task ] - Booster - Auto Win\n\nApp synthesized from various sources.",
+      "tintColor": "000000",
+      "icon": "https://ipaomtk.com/wp-content/uploads/2025/02/Sweet-Cube-Blast-300x300.webp",
+      "bundleID": "com.ipaomtk.sweetcubeblast",
+      "fullDate": "20260418061226",
+      "type": 1
+    },
+    {
+      "name": "Uplens",
+      "bundleIdentifier": "app.uplens",
+      "developerName": "Karbin-Store",
+      "version": "2.8.16",
+      "versionDate": "2026-03-12",
+      "size": 172860000,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Paid features unlocked",
+      "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Uplens.png",
+      "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/Uplens._2.9.13.ipa",
+      "versions": [
+        {
+          "version": "2.8.16",
+          "date": "2026-03-12",
+          "localizedDescription": "Paid features unlocked",
+          "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/Uplens._2.9.13.ipa",
+          "size": 172860000,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "Paid features unlocked",
+      "tintColor": "000000",
+      "icon": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Uplens.png",
+      "bundleID": "app.uplens",
+      "fullDate": "20260312085606",
+      "type": 1
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "version": "2.0.10-1",
+      "versionDate": "2024-10-17",
+      "size": 6581661,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up. Last updated: 07-30-2024 Status: ✅ ???? ⭐ - Synthesized from repo: Neoncat-OG - Source: raw.githubuser",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.10-1.ipa",
+      "versions": [
+        {
+          "version": "2.0.10-1",
+          "date": "2024-10-17",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up. Last updated: 07-30-2024 Status: ✅ ???? ⭐ - Synthesized from repo: Neoncat-OG - Source: raw.githubuser",
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.10-1.ipa",
+          "size": 6581661,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "Probably the best Torrent client for iOS 9.3 and up. Last updated: 07-30-2024 Status: ✅ ???? ⭐ - Synthesized from repo: Neoncat-OG - Source: raw.githubuser",
+      "tintColor": "000000",
+      "icon": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png",
+      "bundleID": "ru.nonamedude.iTorrent",
+      "fullDate": "20241017000000",
+      "type": 1
+    }
+  ]
+}
