@@ -3,11 +3,16 @@ name: Sync repo từ fastsign.dev
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Tải repo.json
         run: curl -L -o repo.json https://fastsign.dev/repo.json
@@ -26,6 +31,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add repo.json
-          git commit -m "Đồng bộ" || echo "Không thay đổi"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git add repo.json
+            git commit -m "Tự động đồng bộ từ fastsign.dev"
+            git push
+          else
+            echo "Không có thay đổi để commit"
+          fi
