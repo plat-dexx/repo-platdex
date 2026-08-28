@@ -293,6 +293,62 @@
       "type": 1
     },
     {
+      "name": "NeoServer",
+      "bundleIdentifier": "com.neo.NeoMan",
+      "developerName": "TTJB IPA Repo",
+      "version": "8.1.6",
+      "versionDate": "2026-04-21",
+      "size": 22236222,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Added feature: Subscription unlocked - IPA checked and synthesized by TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-04-2026/NeoServer_8.1.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "versions": [
+        {
+          "version": "8.1.6",
+          "date": "2026-04-21",
+          "localizedDescription": "Added feature: Subscription unlocked - IPA checked and synthesized by TTJB Team",
+          "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-04-2026/NeoServer_8.1.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 22236222,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "Added feature: Subscription unlocked - IPA checked and synthesized by TTJB Team",
+      "tintColor": "000000",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
+      "bundleID": "com.neo.NeoMan",
+      "fullDate": "20260421161218",
+      "type": 1
+    },
+    {
+      "name": "Stndrd",
+      "bundleIdentifier": "uni.cbum",
+      "developerName": "TTJB IPA Repo",
+      "version": "4.1.34",
+      "versionDate": "2026-04-21",
+      "size": 90580016,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Added feature: Subscription unlocked - IPA checked and synthesized by TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-04-2026/Stndrd_4.1.34_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "versions": [
+        {
+          "version": "4.1.34",
+          "date": "2026-04-21",
+          "localizedDescription": "Added feature: Subscription unlocked - IPA checked and synthesized by TTJB Team",
+          "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-04-2026/Stndrd_4.1.34_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 90580016,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "Added feature: Subscription unlocked - IPA checked and synthesized by TTJB Team",
+      "tintColor": "000000",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "bundleID": "uni.cbum",
+      "fullDate": "20260421161218",
+      "type": 1
+    },
+    {
       "name": "HlTV Video & Drama",
       "bundleIdentifier": "com.ipaomtk.hltvvideodrama",
       "developerName": "ipaomtk.com",
