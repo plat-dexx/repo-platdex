@@ -1,13 +1,13 @@
 {
   "name": "Plat • Dex",
-  "identifier": "com.platdex.repo",
-  "subtitle": "Repo chính thức của Plat • Dex",
-  "sourceURL": "https://plat-dexx.github.io/repo-platdex/repo.json",
-  "website": "https://plat-dexx.github.io/repo-platdex/",
-  "iconURL": "https://plat-dexx.github.io/repo-platdex/icon.PNG",
+  "identifier": "dev.fastsign.repo",
+  "subtitle": "Probably too large, but it has everything you'd want",
+  "sourceURL": "https://fastsign.dev/repo.json",
+  "website": "https://fastsign.dev",
+  "iconURL": "https://fastsign.dev/icon.png",
   "META": {
     "repoName": "Plat • Dex",
-    "repoIcon": "https://plat-dexx.github.io/repo-platdex/icon.PNG"
+    "repoIcon": "https://fastsign.dev/icon.png"
   },
   "news": [],
   "userInfo": {},
